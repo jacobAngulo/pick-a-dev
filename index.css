@@ -147,9 +147,9 @@ p {
   line-height: 50px;
   font-size: 20px;
   font-weight: 900;
-  color: purple;
+  color: green;
   background: yellow;
-  border: 5px solid purple;
+  border: 5px solid green;
   border-radius: 5px;
 }
 
@@ -157,9 +157,9 @@ button {
   height: 50px;
   font-size: 20px;
   font-weight: 900;
-  color: purple;
+  color: green;
   background: yellow;
-  border: 5px solid purple;
+  border: 5px solid green;
   border-radius: 5px;
   cursor: pointer;
 }
