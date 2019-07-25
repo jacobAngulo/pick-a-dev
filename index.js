@@ -4,11 +4,11 @@ const button = document.querySelector(".picker");
 const devs = [
   "Aiden",
   "Carl",
-  "Daniel",
   "Gabriel",
   "Liam",
   "Patrick",
-  "Toosdai"
+  "Toosdai",
+  "Brandon"
 ];
 
 display.textContent = "press the button to pick a dev";
